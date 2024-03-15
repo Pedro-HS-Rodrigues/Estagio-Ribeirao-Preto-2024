@@ -1,0 +1,11 @@
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+Resposta: 
+Esse problema é muito famoso e frequentemente abordado em filmes e séries, como, por exemplo, na série "Alice in Borderland".
+Para responder a essa pergunta, é bem simples: primeiro, acenda um interruptor e aguarde alguns segundos.
+Agora, apague o interruptor e acenda outro.
+Vá até a sala e observe que uma das três lâmpadas estará ligada; logo, você saberá que o segundo interruptor aceso se refere a essa lâmpada.
+Em seguida, toque com sua mão nas outras duas lâmpadas; a que estiver mais quente se refere ao primeiro interruptor aceso anteriormente.
+Portanto, a lâmpada que está desligada e fria se refere ao terceiro interruptor que ainda não foi acionado.
